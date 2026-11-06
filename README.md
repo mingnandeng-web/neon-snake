@@ -2,6 +2,8 @@
 
 一个单文件的 HTML5 小游戏，打开就能玩，不需要任何依赖或构建步骤。
 
+🎮 在线试玩：https://mingnandeng-web.github.io/neon-snake/
+
 ## 玩法
 
 - 方向键 / `WASD` 控制方向
@@ -13,10 +15,10 @@
 
 ## 本地运行
 
-双击 `neon-snake.html`，或在终端执行：
+双击 `index.html`，或在终端执行：
 
 ```bash
-open neon-snake.html
+open index.html
 ```
 
 ## 技术说明
